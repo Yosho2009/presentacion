@@ -1,0 +1,5 @@
+print("Gustavo Hernández Garcia")
+print("16")
+print("San Miguel Llano Grande")
+print("negro")
+print("salir con mi bici,escuchar musica, ver peliculas")
