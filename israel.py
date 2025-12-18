@@ -1,0 +1,5 @@
+print("Me llamo Israel Cima Cordero")
+print("Naci el 05/04/2008")
+print("Vivo en Calle Plan De Guadalupe N.17")
+print("Mi color favorito es el rojo  ")
+print("Mis hobbies son : jugar futbol, trabajar , liagiba  ")
